@@ -28,4 +28,4 @@ The arctic trails have their secret tales that would make your blood run cold. T
 4. Cat Stevens  
    Musician.
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![A logo](https://github.com/lyingb/dyer-website/blob/main/thecarpentries-opengraph.png "Carpentry")
