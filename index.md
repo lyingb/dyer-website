@@ -6,6 +6,20 @@ I am creating new webpages. I love them. They are really great things. The thing
 
 Making another change. 
 
+[A link to my README](README)
+
+[A link to my README](README.md)
+
+[A link to my README](readme)
+
 [A link to my README](readme.md)
 
+
 [About](about.md)
+
+[About](ABOUT.md)
+
+[About](about)
+
+[About](ABOUT)
+
