@@ -8,7 +8,6 @@ I am creating new webpages. I love them. They are really great things. The thing
 
 Making another change. 
 
-My email: [{{site.email}}](mailto:{{site.email}})
 
 
 
@@ -17,3 +16,8 @@ My email: [{{site.email}}](mailto:{{site.email}})
 [About](about.md)
 
 [About](about)
+
+
+
+My email: [{{site.email}}](mailto:{{site.email}})
+My website: [{site.URL}}]]
