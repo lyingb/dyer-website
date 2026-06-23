@@ -8,7 +8,7 @@ I am creating new webpages. I love them. They are really great things. The thing
 
 Making another change. 
 
-My email: [mailto:{{site.email}}]
+My email: (mailto:{{site.email}})
 
 [A link to my README](README.md)
 
