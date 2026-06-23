@@ -21,7 +21,7 @@ The arctic trails have their secret tales that would make your blood run cold. T
 
 1. Michael Purnham  
    My cat.
-2. Pepper  
+1. Pepper  
    My dead cat.
 3. Salem    
    My sister's cat.
